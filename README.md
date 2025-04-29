@@ -19,9 +19,8 @@ I’m a soon-to-be graduate in Math Engineering & AI, passionate about turning r
 
 ## 🔧 Technical Skills
 
-## 🔧 Technical Skills
 
-![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) ![PyTorch](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg) ![TensorFlow](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg) ![R](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg) ![C#](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg) ![C++](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg) ![MATLAB](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg) ![SQL Server](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg) ![MongoDB](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg) ![Hadoop](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg) ![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg) ![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg) ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)
+![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg=40x40)
 
 ---
 
