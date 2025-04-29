@@ -8,7 +8,7 @@ Exchange Year: University of Maryland (Computer Science, 2024–2025)
 
 ## 🎓 About Me
 I’m a soon-to-be graduate in Math Engineering & AI, passionate about turning raw data into smart solutions.  
-- 🔍 **Interests:** Deep Learning & NLP, Reinforcement Learning, Big Data, Probabilistic ML, Optimization, Robotics  
+- 🔍 **Interests:** Deep Learning & NLP, Reinforcement Learning, Big Data, Financial ML, Optimization 
 - 💼 **Experience:**  
   - **Zurich Insurance** (Data & Campaign Analyst): ML-driven segmentation & predictive analytics  
   - **PwC** (Financial Risk Intern): Automated risk-reporting & Basel III compliance  
