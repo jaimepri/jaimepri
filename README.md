@@ -1,6 +1,6 @@
-# 👋 Hola, I’m Jaime Paz Rodríguez
+# 👋 Hello, I’m Jaime Paz Rodríguez
 
-**BSc Candidate in Mathematical Engineering & Artificial Intelligence**  
+**BScin Mathematical Engineering & Artificial Intelligence**  
 Universidad Pontificia Comillas — ICAI (2021 – 2025)  
 Exchange Year: University of Maryland, Washington DC (CS & Finance, 2024–2025)
 
@@ -23,8 +23,8 @@ I’m a soon-to-be graduate in Math Engineering & AI, passionate about turning r
 |------------------------------|----------------------------|----------------------------------------|-----------------------|
 | Python 🐍                    | PyTorch ⚙️                  | Hadoop ☁️                              | PowerBI 📊            |
 | R                            | JAX 🔗                     | Spark ⚡                                | Tableau 📈            |
-| C++ 🔵                       |                            | Neo4j 🗄️                               |                       |
-| JSX                          |                            | MongoDB 🍃                              |                       |
+| C++ 🔵                       | Tensorflow                           | Neo4j 🗄️                               |                       |
+| C#                           |                            | MongoDB 🍃                              |                       |
 | SQL                          |                            | CI/CD Pipelines ⏯️                      |                       |
 | MATLAB                       |                            | AWS ☁️, Azure ☁️                        |                       |
 | HTML & CSS                   |                            |                                        |                       |
@@ -33,12 +33,8 @@ I’m a soon-to-be graduate in Math Engineering & AI, passionate about turning r
 
 ## 📫 Connect with Me
 
-- 📧 [jaimepazrd@gmail.com](mailto:jaimepazrd@gmail.com)  
-- 🔗 [LinkedIn · jpazr](https://www.linkedin.com/in/jpazr)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jpazr)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaimepazrd@gmail.com)
 
----
-
-> “Data is the new oil, and AI is the refinery.”  
-> – Inspired by the journey from numbers to insights.
 
 
