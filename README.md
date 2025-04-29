@@ -19,8 +19,7 @@ I’m a soon-to-be graduate in Math Engineering & AI, passionate about turning r
 
 ## 🔧 Technical Skills
 
-
-![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg=40x40)
+[Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg=40x40)
 
 ---
 
